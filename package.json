@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "webpack-dev-server --hot"
-    "start_open": "webpack-dev-server --hot --open-page \"main\""
+    "run": "webpack-dev-server --hot",
+    "start": "webpack-dev-server --hot --open-page \"main\""
   },
   "devDependencies": {
     "webpack": "^4.41.2",
